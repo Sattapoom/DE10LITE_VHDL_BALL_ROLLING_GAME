@@ -1,0 +1,8 @@
+
+State Machine - |Mini_Project|pmod_accelerometer_adxl345:C2|state
+Name state.output_result state.read_data state.configure state.pause state.start 
+state.start 0 0 0 0 0 
+state.pause 0 0 0 1 1 
+state.configure 0 0 1 0 1 
+state.read_data 0 1 0 0 1 
+state.output_result 1 0 0 0 1 

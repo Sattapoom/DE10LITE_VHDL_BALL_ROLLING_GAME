@@ -1,0 +1,18 @@
+Fitter Status : Successful - Fri Mar 22 16:00:22 2024
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : Mini_Project
+Top-level Entity Name : Mini_Project
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 6,041 / 49,760 ( 12 % )
+    Total combinational functions : 5,977 / 49,760 ( 12 % )
+    Dedicated logic registers : 483 / 49,760 ( < 1 % )
+Total registers : 483
+Total pins : 23 / 360 ( 6 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,677,312 ( 0 % )
+Embedded Multiplier 9-bit elements : 10 / 288 ( 3 % )
+Total PLLs : 1 / 4 ( 25 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )

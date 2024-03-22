@@ -1,0 +1,7 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Game_Logic:C3|lpm_mult:Mult4|mult_jgs:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Game_Logic:C3|lpm_mult:Mult3|mult_jgs:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Game_Logic:C3|lpm_mult:Mult1|mult_fgs:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Game_Logic:C3|lpm_mult:Mult2|mult_fgs:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Game_Logic:C3|lpm_mult:Mult0|mult_fgs:auto_generated|mac_out2,
+PORT_SWAPPING,PORT_SWAPPING_FINISHED,Game_Logic:C3|lpm_mult:Mult4|mult_jgs:auto_generated|mac_mult1,
